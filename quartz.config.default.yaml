@@ -42,7 +42,7 @@ configuration:
         textHighlight: "#b3aa0288"
 plugins:
   - source: "@quartz-community/created-modified-date"
-    enabled: true
+    ed: true
     options:
       defaultDateType: modified
       priority:
@@ -51,7 +51,7 @@ plugins:
         - filesystem
     order: 10
   - source: "@quartz-community/syntax-highlighting"
-    enabled: true
+    ed: true
     options:
       theme:
         light: github-light
@@ -59,7 +59,7 @@ plugins:
       keepBackground: false
     order: 20
   - source: "@quartz-community/obsidian-flavored-markdown"
-    enabled: true
+    ed: true
     options:
       enableInHtmlEmbed: false
       enableCheckbox: true
@@ -115,7 +115,7 @@ plugins:
     enabled: true
     options:
       enableSiteMap: true
-      enableRSS: true
+      enableRSS: false
   - source: "@quartz-community/favicon"
     enabled: true
   - source: "@quartz-community/og-image"
