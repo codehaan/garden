@@ -1,2 +1,2 @@
-[Jay-Z]
-[The Game]
+[[Jay-Z]]
+[[The Game]]
