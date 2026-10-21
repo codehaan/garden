@@ -1,7 +1,7 @@
 ---
 title: Wingate Dog Run
 description: Community advocacy for a designated dog run at Wingate Park in Brooklyn.
-permalink: /projects/wingate-dog-run
+permalink: /Projects/wingate-dog-run
 date: 2026-10-21
 draft: false
 tags:
